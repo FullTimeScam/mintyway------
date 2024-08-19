@@ -1,0 +1,31 @@
+[
+  {
+    "image": "/coin.png",
+    "template": "밈 토큰",
+    "price": "0.0002 ETH",
+    "properties": [{ "key": "supply 제한", "description": "supply 설명" }]
+  },
+  {
+    "image": "/coin.png",
+    "template": "기본 토큰",
+    "price": "0.02 ETH",
+    "properties": [
+      { "key": "supply 제한 없음", "description": "supply 설명" },
+      { "key": "ownership", "description": "ownership 설명" },
+      { "key": "mintable", "description": "mintable 설명" },
+      { "key": "burnable", "description": "burnable 설명" }
+    ]
+  },
+  {
+    "image": "/coin.png",
+    "template": "토큰",
+    "price": "0.1 ETH",
+    "properties": [
+      { "key": "supply 제한 없음", "description": "supply 설명" },
+      { "key": "ownership", "description": "ownership 설명" },
+      { "key": "mintable", "description": "mintable 설명" },
+      { "key": "burnable", "description": "burnable 설명" },
+      { "key": "추가 기능", "description": "추가 기능 설명" }
+    ]
+  }
+]
